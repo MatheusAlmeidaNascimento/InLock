@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>senai.inlock.webApi</name>
+    </assembly>
+    <members>
+        <member name="P:senai.inlock.webApi.Domains.EstudioDomain.idEstudio">
+            <summary>
+            Classe que representa a entidade (tabela) Estudio
+            </summary>
+        </member>
+        <member name="T:senai.inlock.webApi.Domains.JogoDomain">
+            <summary>
+            Classe que representa a entidade (tabela) Jogo
+            </summary>
+        </member>
+        <member name="T:senai.inlock.webApi.Domains.TipoUserDomain">
+            <summary>
+            Classe que representa a entidade (tabela) TipoUsuario
+            </summary>
+        </member>
+        <member name="T:senai.inlock.webApi.Domains.UsuarioDomain">
+            <summary>
+            Classe que representa a entidade (tabela) Usuario
+            </summary>
+        </member>
+        <member name="T:senai.inlock.webApi.Interfaces.IEstudioRepository">
+            <summary>
+            Interface responsável pelo repositório EstudioRepository
+            </summary>
+        </member>
+        <member name="T:senai.inlock.webApi.Interfaces.IJogoRepository">
+            <summary>
+            Interface responsável pelo repositório JogoRepository
+            </summary>
+        </member>
+        <member name="T:senai.inlock.webApi.Interfaces.IUsuarioRepository">
+            <summary>
+            Interface responsável pelo repositório UsuarioRepository
+            </summary>
+        </member>
+    </members>
+</doc>
